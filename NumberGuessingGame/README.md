@@ -2,7 +2,7 @@
 
 ## Project description
 
-The user chooses two number integer in which x < y. The system selects a random number integer then the user has to guess that integer in the minimum number of guesses.
+The user chooses two numbers integer x and y with x < y. The system selects a random number integer then the user has to guess that integer in the minimum number of guesses.
 
 Reference: https://www.geeksforgeeks.org/number-guessing-game-in-python/
 
